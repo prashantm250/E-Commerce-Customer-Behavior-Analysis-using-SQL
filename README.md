@@ -97,7 +97,14 @@ Business Recommendations
 
 ---
 # 💻 SQL Analysis - solving business questions
-
+1. Which gender spends more?
+```sql
+select 
+      Gender, sum(Total_Amount) as Total_spend 
+	from customer_analysis
+group by Gender
+order by Total_spend desc
+```
 
 #  📊 Business Insights
  - Repeat customers generated approximately 86% of total revenue in 2023, which increased to nearly 98% in 2024. Meanwhile, the contribution from new customers dropped from 14.1% to just 2.3%, indicating that revenue has become highly dependent on existing customers and highlighting the need to strengthen new customer acquisition strategies.
