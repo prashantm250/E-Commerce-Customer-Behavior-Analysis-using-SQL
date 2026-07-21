@@ -86,7 +86,7 @@ Business Recommendations
 ---
 
 # 📈 Key Performance Indicators (KPIs)
--  Total revenue -> 21779052
+-  Total revenue  21.78 M
 
 
 #  📊 Business Insights
