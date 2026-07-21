@@ -4,6 +4,7 @@
 This project analyzes E-Commerce Customer Behavior using MySQL to uncover business insights related to customer retention, revenue trends, sales performance, delivery efficiency, discounts, and customer satisfaction.
 
 The objective is to transform raw transactional data into actionable business insights that help improve profitability, customer experience, and decision-making.
+
 ---
 # 📊 Dataset Overview
 The dataset contains customer purchase transactions with information including:
@@ -20,12 +21,14 @@ Customer Rating,
 Delivery Time,
 Discount,
 Customer Type (New/Returning)
+
 ---
  # 🔍 Data Exploration
  - Counted the total number of records in the dataset
  - Viewed a sample of the dataset to understand structure and content
  - Checked for null values across all columns
  - Identified distinct product categories available in the dataset
+   
 ---
 # 🔄 Project Workflow
 ```text
@@ -43,7 +46,9 @@ Business Insights
         ▼
 Business Recommendations
 ```
+
 ---
+
 #  📊 Business Insights
  - Repeat customers generated approximately 86% of total revenue in 2023, which increased to nearly 98% in 2024. Meanwhile, the contribution from new customers dropped from 14.1% to just 2.3%, indicating that revenue has become highly dependent on existing customers and highlighting the need to strengthen new customer acquisition strategies.
  - Electronics is the highest revenue-generating category, contributing nearly 50% of total revenue across all seasons, making it the company's most profitable product category.
@@ -53,6 +58,8 @@ Business Recommendations
  - These cities should receive more marketing focus, inventory allocation, and promotional campaigns.
  - Discounts account for approximately 5% of potential revenue loss. Furthermore, product categories receiving the highest discounts are not showing proportional increases in sales volume, suggesting current discount strategies are not maximizing profitability.
  - Customer churn analysis identified 118 high-risk customers who placed only one order, rated their experience below 3 stars, and experienced delivery times exceeding 10 days, indicating service quality and delivery delays as major churn drivers.
+
+---
 
 # 💡 Business Recommendations
 - Increase inventory and marketing investment for Electronics, the highest revenue category.
