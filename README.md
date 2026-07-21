@@ -4,3 +4,19 @@
 This project analyzes E-Commerce Customer Behavior using MySQL to uncover business insights related to customer retention, revenue trends, sales performance, delivery efficiency, discounts, and customer satisfaction.
 
 The objective is to transform raw transactional data into actionable business insights that help improve profitability, customer experience, and decision-making.
+
+# 📊 Dataset Overview
+The dataset contains customer purchase transactions with information including:
+
+Customer Details
+Product Category
+Product Price
+Quantity Purchased
+Order Date
+City
+Device Type
+Payment Method
+Customer Rating
+Delivery Time
+Discount
+Customer Type (New/Returning)
