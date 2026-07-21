@@ -8,15 +8,15 @@ The objective is to transform raw transactional data into actionable business in
 # 📊 Dataset Overview
 The dataset contains customer purchase transactions with information including:
 
-Customer Details
-Product Category
-Product Price
-Quantity Purchased
-Order Date
-City
-Device Type
-Payment Method
-Customer Rating
-Delivery Time
-Discount
+Customer Details,
+Product Category,
+Product Price,
+Quantity Purchased,
+Order Date,
+City,
+Device Type,
+Payment Method,
+Customer Rating,
+Delivery Time,
+Discount,
 Customer Type (New/Returning)
