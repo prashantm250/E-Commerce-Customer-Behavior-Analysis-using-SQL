@@ -1,2 +1,6 @@
 # E-Commerce-Customer-Behavior-Analysis-using-SQL
-End-to-end SQL analysis of an E-Commerce Customer Behavior dataset using MySQL. Performed data exploration, customer segmentation, revenue analysis, churn prediction, delivery performance, discount impact, and customer retention analysis to generate actionable business insights through advanced SQL queries
+📌 Project Overview
+
+This project analyzes E-Commerce Customer Behavior using MySQL to uncover business insights related to customer retention, revenue trends, sales performance, delivery efficiency, discounts, and customer satisfaction.
+
+The objective is to transform raw transactional data into actionable business insights that help improve profitability, customer experience, and decision-making.
