@@ -29,3 +29,10 @@ Customer Type (New/Returning)
 
 #  📊 Business Insights
  - Repeat customers generated approximately 86% of total revenue in 2023, which increased to nearly 98% in 2024. Meanwhile, the contribution from new customers dropped from 14.1% to just 2.3%, indicating that revenue has become highly dependent on existing customers and highlighting the need to strengthen new customer acquisition strategies.
+ - Electronics is the highest revenue-generating category, contributing nearly 50% of total revenue across all seasons, making it the company's most profitable product category.
+ - Although Electronics generates the highest revenue, it does not rank among the top five categories by sales quantity. Sports records the highest units sold, indicating Electronics has a significantly higher average selling price.
+ - Home & Garden and Sports are the next strongest contributors, while categories like Books and Beauty generate comparatively lower revenue.
+ - Istanbul generates the highest sales revenue, followed by Ankara and Izmir.
+ - These cities should receive more marketing focus, inventory allocation, and promotional campaigns.
+ - Discounts account for approximately 5% of potential revenue loss. Furthermore, product categories receiving the highest discounts are not showing proportional increases in sales volume, suggesting current discount strategies are not maximizing profitability.
+ - Customer churn analysis identified 118 high-risk customers who placed only one order, rated their experience below 3 stars, and experienced delivery times exceeding 10 days, indicating service quality and delivery delays as major churn drivers.
