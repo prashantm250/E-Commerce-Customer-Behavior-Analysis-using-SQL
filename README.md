@@ -85,6 +85,11 @@ Business Recommendations
 
 ---
 
+# 📈 Key Performance Indicators (KPIs)
+## Total revenue
+   21779052
+
+
 #  📊 Business Insights
  - Repeat customers generated approximately 86% of total revenue in 2023, which increased to nearly 98% in 2024. Meanwhile, the contribution from new customers dropped from 14.1% to just 2.3%, indicating that revenue has become highly dependent on existing customers and highlighting the need to strengthen new customer acquisition strategies.
  - Electronics is the highest revenue-generating category, contributing nearly 50% of total revenue across all seasons, making it the company's most profitable product category.
