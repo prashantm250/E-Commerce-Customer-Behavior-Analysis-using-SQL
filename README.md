@@ -20,3 +20,9 @@ Customer Rating,
 Delivery Time,
 Discount,
 Customer Type (New/Returning)
+
+ # 🔍 Data Exploration
+ - Counted the total number of records in the dataset
+ - Viewed a sample of the dataset to understand structure and content
+ - Checked for null values across all columns
+ - Identified distinct product categories available in the dataset
