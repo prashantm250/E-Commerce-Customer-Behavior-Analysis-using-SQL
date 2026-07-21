@@ -86,8 +86,16 @@ Business Recommendations
 ---
 
 # 📈 Key Performance Indicators (KPIs)
--  Total revenue  21.78 M
+-  Total revenue -> 21.78 M
+-  Total orders  -> 17049
+-  Unique Customers  -> 5000
+-  Average Order Value -> 1277.44
+-  Returning Customer % -> 88.21%
+-  Average customer Rating -> 3.89
+-  Average Delivery Time -> 6.5 days
+-  Total Discount Given -> 1.19 M
 
+---
 
 #  📊 Business Insights
  - Repeat customers generated approximately 86% of total revenue in 2023, which increased to nearly 98% in 2024. Meanwhile, the contribution from new customers dropped from 14.1% to just 2.3%, indicating that revenue has become highly dependent on existing customers and highlighting the need to strengthen new customer acquisition strategies.
