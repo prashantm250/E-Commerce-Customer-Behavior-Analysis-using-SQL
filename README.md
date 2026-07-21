@@ -96,6 +96,8 @@ Business Recommendations
 -  Total Discount Given -> 1.19 M
 
 ---
+# 💻 SQL Analysis - solving business questions
+
 
 #  📊 Business Insights
  - Repeat customers generated approximately 86% of total revenue in 2023, which increased to nearly 98% in 2024. Meanwhile, the contribution from new customers dropped from 14.1% to just 2.3%, indicating that revenue has become highly dependent on existing customers and highlighting the need to strengthen new customer acquisition strategies.
