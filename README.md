@@ -30,13 +30,39 @@ Customer Type (New/Returning)
  - Identified distinct product categories available in the dataset
 
 ```sql
+Total number of records
+
 select count(*) from customer_analysis
+
+Sample of the dataset
+
 select * from customer_analysis
 limit 10
+
+Checking for null values
+
 select * from customer_analysis
-where Order_ID is null or Customer_ID is null or Date is null or Age is null or Gender is null or City is null or Product_Category is null
-or Unit_Price is null or Quantity is null or Discount_Amount is null or Total_Amount is null or Payment_Method is null or Device_Type is null  or Session_Duration_Minutes is null
-or Pages_Viewed is null or Is_Returning_Customer is null or Delivery_Time_Days is null or Customer_Rating is null
+where Order_ID is null
+or Customer_ID is null
+or Date is null
+or Age is null
+or Gender is null
+or City is null
+or Product_Category is null
+or Unit_Price is null
+or Quantity is null
+or Discount_Amount is null
+or Total_Amount is null
+or Payment_Method is null
+or Device_Type is null
+or Session_Duration_Minutes is null
+or Pages_Viewed is null
+or Is_Returning_Customer is null
+or Delivery_Time_Days is null
+or Customer_Rating is null
+
+Product categories
+
 select distinct product_category from customer_analysis
 ```
 ---
