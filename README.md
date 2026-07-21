@@ -36,3 +36,9 @@ Customer Type (New/Returning)
  - These cities should receive more marketing focus, inventory allocation, and promotional campaigns.
  - Discounts account for approximately 5% of potential revenue loss. Furthermore, product categories receiving the highest discounts are not showing proportional increases in sales volume, suggesting current discount strategies are not maximizing profitability.
  - Customer churn analysis identified 118 high-risk customers who placed only one order, rated their experience below 3 stars, and experienced delivery times exceeding 10 days, indicating service quality and delivery delays as major churn drivers.
+
+# 💡 Business Recommendations
+- Increase inventory and marketing investment for Electronics, the highest revenue category.
+- Launch loyalty programs to convert first-time buyers into returning customers.
+- Improve delivery speed to increase customer satisfaction and reduce negative review.
+- Lower-performing cities may require localized offers to increase customer engagement.
