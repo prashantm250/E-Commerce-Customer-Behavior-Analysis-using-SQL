@@ -454,3 +454,16 @@ order by Avg_discount desc, volume asc
 - Launch loyalty programs to convert first-time buyers into returning customers.
 - Improve delivery speed to increase customer satisfaction and reduce negative review.
 - Lower-performing cities may require localized offers to increase customer engagement.
+
+---
+# 📬 Contact
+
+**Prashant Myakal**
+
+📧 Email: prashantmyakal145@gmail.com
+
+💼 LinkedIn: www.linkedin.com/in/prashant-myakal-10233626a
+
+💻 GitHub: https://github.com/prashantm250
+
+----
