@@ -22,7 +22,7 @@ Delivery Time,
 Discount,
 Customer Type (New/Returning)
 
-# Dataset Link --> https://www.kaggle.com/datasets/umuttuygurr/e-commerce-customer-behavior-and-sales-analysis-tr
+Dataset Link --> https://www.kaggle.com/datasets/umuttuygurr/e-commerce-customer-behavior-and-sales-analysis-tr
 
 ---
  # 🔍 Data Exploration
