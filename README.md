@@ -1,5 +1,5 @@
 # E-Commerce-Customer-Behavior-Analysis-using-SQL
-#📌 Project Overview
+# 📌 Project Overview
 
 This project analyzes E-Commerce Customer Behavior using MySQL to uncover business insights related to customer retention, revenue trends, sales performance, delivery efficiency, discounts, and customer satisfaction.
 
