@@ -28,7 +28,17 @@ Customer Type (New/Returning)
  - Viewed a sample of the dataset to understand structure and content
  - Checked for null values across all columns
  - Identified distinct product categories available in the dataset
-   
+
+```sql
+select count(*) from customer_analysis
+select * from customer_analysis
+limit 10
+select * from customer_analysis
+where Order_ID is null or Customer_ID is null or Date is null or Age is null or Gender is null or City is null or Product_Category is null
+or Unit_Price is null or Quantity is null or Discount_Amount is null or Total_Amount is null or Payment_Method is null or Device_Type is null  or Session_Duration_Minutes is null
+or Pages_Viewed is null or Is_Returning_Customer is null or Delivery_Time_Days is null or Customer_Rating is null
+select distinct product_category from customer_analysis
+```
 ---
 # 🔄 Project Workflow
 ```text
