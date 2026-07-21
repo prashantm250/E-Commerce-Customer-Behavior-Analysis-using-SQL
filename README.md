@@ -96,6 +96,24 @@ Business Recommendations
 -  Total Discount Given -> 1.19 M
 
 ---
+
+# 📊 SQL Concepts Used
+- SELECT
+- WHERE
+- GROUP BY
+- ORDER BY
+- CASE WHEN
+- Aggregate Functions
+- CTEs
+- Window Functions
+- Common Table Expressions
+- Subqueries
+- Date Functions
+- Joins
+- Ranking Functions
+
+---
+
 # 💻 SQL Analysis - solving business questions
 1. Which gender spends more?
 ```sql
